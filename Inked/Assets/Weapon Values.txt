@@ -1,0 +1,36 @@
+AR
+Scale Limit 2
+Z 25
+DelayTime 1.5
+count 30
+
+SMG
+Scale Limit 2
+Z 15
+DelayTime 1
+count 40
+
+Shotgun
+Scale Limit 2
+Z 25
+DelayTime 1.5
+count 30
+
+Pistol
+Scale Limit 1
+Z 30
+DelayTime 1
+count 1
+
+Bazooka
+Scale Limit 2
+Z 25
+DelayTime 1.5
+count 30
+
+SR
+Scale Limit 2
+Z 25
+DelayTime 1.5
+count 30
+

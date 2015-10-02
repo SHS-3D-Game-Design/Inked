@@ -1,0 +1,203 @@
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6900 Series (ID=0x6719)
+    Vendor:   ATI
+    VRAM:     2032 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll into Unity Child Domain
+- Completed reload, in  0.194 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.dll (this message is harmless)
+QL: 0 | PP: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.217216 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 1.027027 ms (FindLiveObjects: 0.029527 ms CreateObjectMapping: 0.009355 ms MarkObjects: 0.303752 ms  DeleteObjects: 0.003508 ms)
+
+Binding to local socket 0.0.0.0
+Sending NAT type detection request, local port 54154
+Returning nat detection result to the user
+U: FCL, SN: Test Server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6900 Series (ID=0x6719)
+    Vendor:   ATI
+    VRAM:     2032 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll into Unity Child Domain
+- Completed reload, in  0.048 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.dll (this message is harmless)
+QL: 0 | PP: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.192074 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 1.053047 ms (FindLiveObjects: 0.023095 ms CreateObjectMapping: 0.009647 ms MarkObjects: 0.311938 ms  DeleteObjects: 0.003800 ms)
+
+Binding to local socket 0.0.0.0
+Sending NAT type detection request, local port 54570
+Returning nat detection result to the user
+Hostlist = null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hostlist = null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.373624 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 1.013872 ms (FindLiveObjects: 0.019879 ms CreateObjectMapping: 0.009355 ms MarkObjects: 0.354036 ms  DeleteObjects: 0.002923 ms)
+
+U: Mike, SN: Test Server
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server Initialized
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Initialize engine version: 4.6.4f1 (99f88340878d)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6900 Series (ID=0x6719)
+    Vendor:   ATI
+    VRAM:     2032 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAIN.dll into Unity Child Domain
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll (this message is harmless)
+Loading P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\RAINMetaform.dll into Unity Child Domain
+- Completed reload, in  0.049 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: P:\INked_Folder\Unity\Inked\Multiplayer_Test_Data\Managed\System.dll (this message is harmless)
+QL: 0 | PP: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+UnloadTime: 0.192074 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 728.
+Total: 1.093683 ms (FindLiveObjects: 0.027773 ms CreateObjectMapping: 0.009939 ms MarkObjects: 0.325093 ms  DeleteObjects: 0.003800 ms)
+
+Binding to local socket 0.0.0.0
+Sending NAT type detection request, local port 55089
+Returning nat detection result to the user
+Hostlist = null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hostlist = null
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hostlist != null, length = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Hostlist != null, length = 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Parent of RectTransform is being set with parent property. Consider using the SetParent method instead, with the worldPositionStays argument set to false. This will retain local orientation and scale rather than world orientation and scale, which can prevent common UI scaling issues.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+Server Joined
+ 
+(Filename: C:/buildslave/unity/build/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 56)
+
+The server has disconnected from the client. Most likely the server has shut down.
+ 
+(Filename:  Line: 745)
+
+UnloadTime: 0.375962 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 743.
+Total: 1.100115 ms (FindLiveObjects: 0.023680 ms CreateObjectMapping: 0.009355 ms MarkObjects: 0.363099 ms  DeleteObjects: 0.003215 ms)
+
+UnloadTime: 0.374501 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 733.
+Total: 1.062986 ms (FindLiveObjects: 0.023095 ms CreateObjectMapping: 0.011109 ms MarkObjects: 0.382394 ms  DeleteObjects: 0.003215 ms)
+
