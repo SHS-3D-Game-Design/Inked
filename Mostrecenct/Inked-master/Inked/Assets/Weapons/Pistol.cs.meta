@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 120813e4d49be204797140b7918ddeef
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullets: {instanceID: 0}
+  - splash: {instanceID: 0}
+  - explosionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

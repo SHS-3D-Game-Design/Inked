@@ -1,0 +1,123 @@
+fileFormatVersion: 2
+guid: 9b2ed3b8b61cf994f8916564935bc30f
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Iron_Sight
+    100002: IronSight
+    100004: ironsight_PeiceBack
+    100006: IronSight_Reticle
+    100008: nRigid1
+    100010: nucleus1
+    100012: Paintball_Particle
+    100014: pCube1
+    100016: pCube3
+    100018: //RootNode
+    100020: Ump_Barrel
+    100022: Ump_Body
+    100024: Ump_Clip1
+    100026: Ump_Handle
+    100028: Ump_Stock1
+    400000: Iron_Sight
+    400002: IronSight
+    400004: ironsight_PeiceBack
+    400006: IronSight_Reticle
+    400008: nRigid1
+    400010: nucleus1
+    400012: Paintball_Particle
+    400014: pCube1
+    400016: pCube3
+    400018: //RootNode
+    400020: Ump_Barrel
+    400022: Ump_Body
+    400024: Ump_Clip1
+    400026: Ump_Handle
+    400028: Ump_Stock1
+    2300000: Iron_Sight
+    2300002: IronSight
+    2300004: ironsight_PeiceBack
+    2300006: IronSight_Reticle
+    2300008: pCube1
+    2300010: pCube3
+    2300012: Ump_Barrel
+    2300014: Ump_Body
+    2300016: Ump_Clip1
+    2300018: Ump_Handle
+    2300020: Ump_Stock1
+    3300000: Iron_Sight
+    3300002: IronSight
+    3300004: ironsight_PeiceBack
+    3300006: IronSight_Reticle
+    3300008: pCube1
+    3300010: pCube3
+    3300012: Ump_Barrel
+    3300014: Ump_Body
+    3300016: Ump_Clip1
+    3300018: Ump_Handle
+    3300020: Ump_Stock1
+    4300000: Ump_Body
+    4300002: Iron_Sight
+    4300004: IronSight_Reticle
+    4300006: IronSight
+    4300008: ironsight_PeiceBack
+    4300010: Ump_Stock1
+    4300012: Ump_Handle
+    4300014: Ump_Clip1
+    4300016: Ump_Barrel
+    4300018: pCube1
+    4300020: pCube3
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 

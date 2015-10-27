@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 763a28122c14a4349b3dba928762155e
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - bullets: {fileID: 164126, guid: 5b6cf758008fab14baef492f0faea39e, type: 2}
+  - splash: {fileID: 160208, guid: a1360e70bbbe073418258fc7e636fc72, type: 2}
+  - explosionPrefab: {fileID: 159070, guid: 01af0c8f14786b445af8ca2e336bc981, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

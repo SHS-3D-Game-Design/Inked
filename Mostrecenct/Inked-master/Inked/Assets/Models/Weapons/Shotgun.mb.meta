@@ -1,0 +1,329 @@
+fileFormatVersion: 2
+guid: afbfaee5ee847e44e860f227168e3d16
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Barrel
+    100002: bodyShotgun
+    100004: Drum_Magazine
+    100006: group
+    100008: left
+    100010: magazineDrum
+    100012: nParticle2
+    100014: nParticle3
+    100016: nParticle4
+    100018: nParticle_Paint
+    100020: nRigid1
+    100022: nRigid2
+    100024: nRigid4
+    100026: nRigid5
+    100028: nRigid6
+    100030: nucleus1
+    100032: paintMagazineMesh
+    100034: pasted__bodyShotgun
+    100036: pasted__bodyShotgun 1
+    100038: pasted__group
+    100040: pasted__magazineDrum
+    100042: pasted__magazineDrum 1
+    100044: pasted__pasted__bodyShotgun
+    100046: pasted__pasted__magazineDrum
+    100048: pasted__pasted__pasted__pCylinder3
+    100050: pasted__pasted__pasted__pPipe4
+    100052: pasted__pasted__pasted__pPipe4 1
+    100054: pasted__pasted__pCylinder1
+    100056: pasted__pasted__pCylinder2
+    100058: pasted__pasted__pCylinder3
+    100060: pasted__pasted__pCylinder3 1
+    100062: pasted__pasted__pCylinder3 2
+    100064: pasted__pasted__polySurface1
+    100066: pasted__pasted__pPipe4
+    100068: pasted__pasted__pPipe4 1
+    100070: pasted__pasted__pPipe4 2
+    100072: pasted__pasted__pPipe4 3
+    100074: pasted__pasted__pPipe4 4
+    100076: pasted__pasted__transform1
+    100078: pasted__pasted__transform2
+    100080: pasted__pasted__transform4
+    100082: pasted__pasted__transform5
+    100084: pasted__pasted__transform6
+    100086: pasted__pasted__transform7
+    100088: pasted__pasted__transform8
+    100090: pasted__pasted__tubeConnectorLeft1
+    100092: pasted__pasted__tubeLeftOne
+    100094: pasted__pasted__tubeLeftTwo
+    100096: pasted__pasted__tubeTwoLeft
+    100098: pasted__pCube2
+    100100: pasted__pCylinder1
+    100102: pasted__pCylinder3
+    100104: pasted__pCylinder3 1
+    100106: pasted__pCylinder3 2
+    100108: pasted__polySurface1
+    100110: pasted__polySurface1 1
+    100112: pasted__pPipe4
+    100114: pasted__pPipe4 1
+    100116: pasted__pPipe4 2
+    100118: pasted__pPipe4 3
+    100120: pasted__transform1
+    100122: pasted__transform1 1
+    100124: pasted__transform2
+    100126: pasted__transform2 1
+    100128: pasted__transform4
+    100130: pasted__transform4 1
+    100132: pasted__transform5
+    100134: pasted__transform5 1
+    100136: pasted__transform6
+    100138: pasted__transform6 1
+    100140: pasted__transform7
+    100142: pasted__transform7 1
+    100144: pasted__transform8
+    100146: pasted__transform8 1
+    100148: pasted__tubeConnectorLeft
+    100150: pasted__tubeConnectorLeft1
+    100152: pasted__tubeConnectorLeft1 1
+    100154: pasted__tubeLeftOne
+    100156: pasted__tubeLeftOne 1
+    100158: pasted__tubeLeftTwo
+    100160: pasted__tubeLeftTwo 1
+    100162: pasted__tubeTwoLeft
+    100164: pCube2
+    100166: pCylinder3
+    100168: polySurface1
+    100170: pPipe2
+    100172: pPipe4
+    100174: reloadShell
+    100176: scopeWholeItem
+    100178: shellsWholeItem
+    100180: //RootNode
+    100182: transform1
+    100184: transform2
+    100186: transform4
+    100188: transform5
+    100190: transform6
+    100192: transform7
+    100194: transform8
+    100196: tubeConnectorLeft
+    100198: tubeConnectorLeft1
+    100200: tubeLeftOne
+    100202: tubeLeftTwo
+    100204: tubeOneLeft
+    100206: tubeRightOne
+    100208: tubeRightTwo
+    100210: tubeTwoLeft
+    400000: Barrel
+    400002: bodyShotgun
+    400004: Drum_Magazine
+    400006: group
+    400008: left
+    400010: magazineDrum
+    400012: nParticle2
+    400014: nParticle3
+    400016: nParticle4
+    400018: nParticle_Paint
+    400020: nRigid1
+    400022: nRigid2
+    400024: nRigid4
+    400026: nRigid5
+    400028: nRigid6
+    400030: nucleus1
+    400032: paintMagazineMesh
+    400034: pasted__bodyShotgun
+    400036: pasted__bodyShotgun 1
+    400038: pasted__group
+    400040: pasted__magazineDrum
+    400042: pasted__magazineDrum 1
+    400044: pasted__pasted__bodyShotgun
+    400046: pasted__pasted__magazineDrum
+    400048: pasted__pasted__pasted__pCylinder3
+    400050: pasted__pasted__pasted__pPipe4
+    400052: pasted__pasted__pasted__pPipe4 1
+    400054: pasted__pasted__pCylinder1
+    400056: pasted__pasted__pCylinder2
+    400058: pasted__pasted__pCylinder3
+    400060: pasted__pasted__pCylinder3 1
+    400062: pasted__pasted__pCylinder3 2
+    400064: pasted__pasted__polySurface1
+    400066: pasted__pasted__pPipe4
+    400068: pasted__pasted__pPipe4 1
+    400070: pasted__pasted__pPipe4 2
+    400072: pasted__pasted__pPipe4 3
+    400074: pasted__pasted__pPipe4 4
+    400076: pasted__pasted__transform1
+    400078: pasted__pasted__transform2
+    400080: pasted__pasted__transform4
+    400082: pasted__pasted__transform5
+    400084: pasted__pasted__transform6
+    400086: pasted__pasted__transform7
+    400088: pasted__pasted__transform8
+    400090: pasted__pasted__tubeConnectorLeft1
+    400092: pasted__pasted__tubeLeftOne
+    400094: pasted__pasted__tubeLeftTwo
+    400096: pasted__pasted__tubeTwoLeft
+    400098: pasted__pCube2
+    400100: pasted__pCylinder1
+    400102: pasted__pCylinder3
+    400104: pasted__pCylinder3 1
+    400106: pasted__pCylinder3 2
+    400108: pasted__polySurface1
+    400110: pasted__polySurface1 1
+    400112: pasted__pPipe4
+    400114: pasted__pPipe4 1
+    400116: pasted__pPipe4 2
+    400118: pasted__pPipe4 3
+    400120: pasted__transform1
+    400122: pasted__transform1 1
+    400124: pasted__transform2
+    400126: pasted__transform2 1
+    400128: pasted__transform4
+    400130: pasted__transform4 1
+    400132: pasted__transform5
+    400134: pasted__transform5 1
+    400136: pasted__transform6
+    400138: pasted__transform6 1
+    400140: pasted__transform7
+    400142: pasted__transform7 1
+    400144: pasted__transform8
+    400146: pasted__transform8 1
+    400148: pasted__tubeConnectorLeft
+    400150: pasted__tubeConnectorLeft1
+    400152: pasted__tubeConnectorLeft1 1
+    400154: pasted__tubeLeftOne
+    400156: pasted__tubeLeftOne 1
+    400158: pasted__tubeLeftTwo
+    400160: pasted__tubeLeftTwo 1
+    400162: pasted__tubeTwoLeft
+    400164: pCube2
+    400166: pCylinder3
+    400168: polySurface1
+    400170: pPipe2
+    400172: pPipe4
+    400174: reloadShell
+    400176: scopeWholeItem
+    400178: shellsWholeItem
+    400180: //RootNode
+    400182: transform1
+    400184: transform2
+    400186: transform4
+    400188: transform5
+    400190: transform6
+    400192: transform7
+    400194: transform8
+    400196: tubeConnectorLeft
+    400198: tubeConnectorLeft1
+    400200: tubeLeftOne
+    400202: tubeLeftTwo
+    400204: tubeOneLeft
+    400206: tubeRightOne
+    400208: tubeRightTwo
+    400210: tubeTwoLeft
+    2300000: Barrel
+    2300002: bodyShotgun
+    2300004: Drum_Magazine
+    2300006: paintMagazineMesh
+    2300008: pasted__pasted__pCylinder1
+    2300010: pasted__pasted__pCylinder2
+    2300012: pasted__pasted__tubeTwoLeft
+    2300014: pasted__pCube2
+    2300016: pasted__pCylinder1
+    2300018: pasted__tubeConnectorLeft
+    2300020: pasted__tubeTwoLeft
+    2300022: pCube2
+    2300024: pPipe2
+    2300026: reloadShell
+    2300028: scopeWholeItem
+    2300030: shellsWholeItem
+    2300032: tubeConnectorLeft
+    2300034: tubeOneLeft
+    2300036: tubeTwoLeft
+    3300000: Barrel
+    3300002: bodyShotgun
+    3300004: Drum_Magazine
+    3300006: paintMagazineMesh
+    3300008: pasted__pasted__pCylinder1
+    3300010: pasted__pasted__pCylinder2
+    3300012: pasted__pasted__tubeTwoLeft
+    3300014: pasted__pCube2
+    3300016: pasted__pCylinder1
+    3300018: pasted__tubeConnectorLeft
+    3300020: pasted__tubeTwoLeft
+    3300022: pCube2
+    3300024: pPipe2
+    3300026: reloadShell
+    3300028: scopeWholeItem
+    3300030: shellsWholeItem
+    3300032: tubeConnectorLeft
+    3300034: tubeOneLeft
+    3300036: tubeTwoLeft
+    4300000: bodyShotgun
+    4300002: paintMagazineMesh
+    4300004: Drum_Magazine
+    4300006: tubeOneLeft
+    4300008: tubeTwoLeft
+    4300010: pasted__tubeConnectorLeft
+    4300012: tubeConnectorLeft
+    4300014: pasted__tubeTwoLeft
+    4300016: pasted__pasted__tubeTwoLeft
+    4300018: Barrel
+    4300020: scopeWholeItem
+    4300022: pPipe2
+    4300024: pasted__pCube2
+    4300026: pCube2
+    4300028: pasted__pCylinder1
+    4300030: shellsWholeItem
+    4300032: pasted__pasted__pCylinder1
+    4300034: pasted__pasted__pCylinder2
+    4300036: reloadShell
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
